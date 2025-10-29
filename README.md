@@ -14,8 +14,8 @@ If you are using Vencord or another fork, use the Vencord version.
 
 ## How to Use
 
-1. Follow the instructions on how to clone the Equicord repo [here](https://github.com/Vendicated/Vencord).
+1. Follow the instructions on how to clone the Vencord repo [here](https://github.com/Vendicated/Vencord).
 2. Within the cloned repository, navigate to `src`.
 3. Create a new folder called `userplugins`
 4. Clone this repository into a new folder inside of `src/userplugins` (`git clone https://github.com/zcraftelite9495/ec-snowfall`)
-5. Follow the build instructions on the Equicord repo [here](https://github.com/Vendicated/Vencord).
+5. Follow the build instructions on the Vencord repo [here](https://github.com/Vendicated/Vencord).
